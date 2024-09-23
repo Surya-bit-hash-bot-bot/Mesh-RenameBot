@@ -1,1 +1,1 @@
-worker: python -m MeshRenameBot
+web: python -m MeshRenameBot
